@@ -331,7 +331,7 @@ for name, model in models.items():
     print(f"{name} model with accuracy: {score}")
 
 ```
-## comparison of accuracy models
+## comparison of  model accuracies
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
